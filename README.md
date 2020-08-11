@@ -1,6 +1,6 @@
 # Salary Calculator
 
-- This is a application to automatically track and calculate hourly salaries based on attendance sheets collected from ESSL Biometric Machines. 
+- This is an application to automatically track and calculate hourly salaries based on attendance sheets collected from ESSL Biometric Machines. 
 
 
 - **Steps to Build**
