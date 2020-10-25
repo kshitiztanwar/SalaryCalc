@@ -71,6 +71,7 @@ class AttendanceManager:
     # reason: require method here for clarity
     def _convert_to_hours(self, time):
         """converts hh:mm to hours"""
+        time = time.replace(";", ":")  # handle error cases
 
         if time == ":":
             return 0
